@@ -62,7 +62,7 @@ The system follows a **client-server model**:
 
 ### 1.Clone the Repository
 ```bash
-git clone https://github.com/SanthoshV2/AI-Assisted-Collaborative-Diagramming-Tool.git
+git clone https://github.com/Maddyy23/AI-Assisted-Collaborative-Diagramming-Tool
 ```
 ### 2.⚙️ Backend Setup
 ```bash
